@@ -13,7 +13,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━━〔 *✦ Silva ✦ Spark ✦ MD ✦* 〕━━━┈⊷
+        let dec = `╭━━━〔 *✦ DE ✦ JUNIOR ✦ MD ✦* 〕━━━┈⊷
 ┃★╭──────────────
 ┃★│ Owner : *${config.OWNER_NAME}*
 ┃★│ Baileys : *Multi Device*
@@ -46,7 +46,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -54,7 +54,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -120,7 +120,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -128,7 +128,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -198,7 +198,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -206,7 +206,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -263,7 +263,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -271,7 +271,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -322,7 +322,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -330,7 +330,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -374,7 +374,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-               image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+               image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -382,7 +382,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -433,7 +433,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -441,7 +441,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -482,7 +482,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -490,7 +490,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -551,7 +551,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -559,7 +559,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -601,7 +601,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -609,7 +609,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR MD 💖🦄',
                         serverMessageId: 143
                     }
                 }
