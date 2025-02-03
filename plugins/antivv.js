@@ -53,7 +53,7 @@ async (conn, mek, m, { from, reply }) => {
         }
     } catch (e) {
         console.log("Error:", e);
-        reply("An error occurred while fetching the ViewOnce message.");
+        reply("An error occurred while fetching the ViewOnce messages.");
     }
 });
 
