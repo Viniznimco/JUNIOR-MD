@@ -23,7 +23,7 @@ try{
 let res = await axios.get('https://api.lolicon.app/setu/v2?num=1&r18=0&tag=lolicon')
 let wm = `😎 Random Garl image
 
-©💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎`
+©💎 DE JUNIOR MD 💎`
 await conn.sendMessage(from, { image: { url: res.data.data[0].urls.original }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -46,7 +46,7 @@ try{
 let res = await axios.get('https://api.waifu.pics/sfw/waifu')
 let wm = `🩵 Random Waifu image
 
-©💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎`
+©💎 DE JUNIOR MD 💎`
 await conn.sendMessage(from, { image: { url: res.data.url }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -92,7 +92,7 @@ try{
 let res = await axios.get('https://api.waifu.pics/sfw/megumin')
 let wm = `❤️‍🔥Random megumin image
 
-©💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎`
+©💎DE JUNIOR MD💎`
 await conn.sendMessage(from, { image: { url: res.data.url }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -115,7 +115,7 @@ try{
 let res = await axios.get('https://api.waifu.im/search/?included_tags=maid')
 let wm = `😎 Random maid image
 
-©💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎`
+©💎 DE JUNIOR MD 💎`
 await conn.sendMessage(from, { image: { url: res.data.images[0].url  }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
@@ -138,7 +138,7 @@ try{
 let res = await axios.get('https://api.waifu.pics/sfw/awoo')
 let wm = `😎 Random awoo image
 
-©💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎`
+©💎 DE JUNIOR MD 💎`
 await conn.sendMessage(from, { image: { url: res.data.url }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
