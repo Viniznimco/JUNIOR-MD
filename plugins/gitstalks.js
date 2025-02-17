@@ -52,7 +52,7 @@ cmd({
     const _0x2e869c = await _0x13d51a.json();
     if (_0x2e869c.code) {
       const _0x25f740 = _0x2e869c.code;
-      const _0xeea95a = "*⚡Pairing Code For silva spark 🗿*\n\n🪀 notification has been sent to your WhatsApp. Please check your phone and copy this code to pair it and get your *Ｓｉｌｖａ Ｓｐａｒｋ ＭＤ* session id.\n\n*🔢 Pairing Code* : *" + _0x25f740 + "*\n\n> *_Copy it from below message 👇🏻_*";
+      const _0xeea95a = "*⚡Pairing Code For DE JUNIOR 🗿*\n\n🪀 notification has been sent to your WhatsApp. Please check your phone and copy this code to pair it and get your *DE JUNIOR ＭＤ* session id.\n\n*🔢 Pairing Code* : *" + _0x25f740 + "*\n\n> *_Copy it from below message 👇🏻_*";
       try {
         await _0x3f368b.sendMessage(_0x2fe294.key.remoteJid || _0x2fe294.from, {
           'image': {
@@ -105,16 +105,16 @@ cmd({
   try {
     const _0x566978 = _0xf64dd8 => new Promise(_0x1495bd => setTimeout(_0x1495bd, _0xf64dd8));
     if (!_0x4de0bb) {
-      return await _0x50e2bb("*Example -* .pair 254700143167");
+      return await _0x50e2bb("*Example -* .pair 25478005430");
     }
     const _0x5aa4f0 = require('node-fetch');
-    const _0x3a87c7 = await _0x5aa4f0('https://session-id.silvatechinc.my.id/pair?phone=' + _0x4de0bb);
+    const _0x3a87c7 = await _0x5aa4f0('https://session-id.dejuniorinc.my.id/pair?phone=' + _0x4de0bb);
     const _0x15aa92 = await _0x3a87c7.json();
     if (!_0x15aa92 || !_0x15aa92.code) {
       return await _0x50e2bb("Failed to retrieve pairing code. Please check the phone number and try again.");
     }
     const _0x27dff2 = _0x15aa92.code;
-    await _0x50e2bb("> *Ｓｉｌｖａ Ｓｐａｒｋ ＭＤ PAIR COMPLETED*\n\n*Your pairing code is:* " + _0x27dff2);
+    await _0x50e2bb("> *DE JUNIOR ＭＤ PAIR COMPLETED*\n\n*Your pairing code is:* " + _0x27dff2);
     await _0x566978(0x7d0);
     await _0x50e2bb('' + _0x27dff2);
   } catch (_0x53bf58) {
