@@ -80,7 +80,7 @@ console.log("Session downloaded ✅")
   //=============================================
   
   async function connectToWA() {
-  console.log("Connecting silva spark to WhatsApp ⏳️...");
+  console.log("Connecting De Junior to WhatsApp ⏳️...");
   const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/sessions/')
   var { version } = await fetchLatestBaileysVersion()
   
@@ -100,7 +100,7 @@ console.log("Session downloaded ✅")
   connectToWA()
   }
   } else if (connection === 'open') {
-  console.log('🧬 Installing silva spark Plugins')
+  console.log('🧬 Installing De Junior Plugins')
   const path = require('path');
   fs.readdirSync("./plugins/").forEach((plugin) => {
   if (path.extname(plugin).toLowerCase() == ".js") {
@@ -110,8 +110,8 @@ console.log("Session downloaded ✅")
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there ✦ Silva ✦ Spark ✦ MD ✦ User! \ud83d\udc4b\ud83c\udffb* \n\n> This is auser friendly whatsapp bot created by Silva Tech Inc \ud83c\udf8a, Meet ✦ Silva ✦ Spark ✦ MD ✦ WhatsApp Bot.\n\n *Thanks for using ✦ Silva ✦ Spark ✦ MD ✦ \ud83d\udea9* \n\n> follow WhatsApp Channel :- 💖\n \nhttps://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/SilvaTechB/silva-spark-md\n\n> © Powered BY ✦ Silva ✦ Spark ✦ MD ✦ \ud83d\udda4`;
-  conn.sendMessage(conn.user.id, { image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` }, caption: up })
+  let up = `*Hello there ✦ De ✦ Junior ✦ MD ✦ User! \ud83d\udc4b\ud83c\udffb* \n\n> This is auser friendly whatsapp bot created by Silva Tech Inc \ud83c\udf8a, Meet ✦ Silva ✦ Spark ✦ MD ✦ WhatsApp Bot.\n\n *Thanks for using ✦ Silva ✦ Spark ✦ MD ✦ \ud83d\udea9* \n\n> follow WhatsApp Channel :- 💖\n \nhttps://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v\n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/SilvaTechB/silva-spark-md\n\n> © Powered BY ✦ Silva ✦ Spark ✦ MD ✦ \ud83d\udda4`;
+  conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/v5t4ju.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)  
