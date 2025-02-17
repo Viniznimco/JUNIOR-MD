@@ -29,8 +29,8 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://i.imgur.com/NCxpd2Y.jpeg' }, // Image URL from your request
-            caption: `╭━━〔 *⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈* 〕━━┈⊷
+            image: { url: 'https://files.catbox.moe/v5t4ju.jpg' }, // Image URL from your request
+            caption: `╭━━〔 *⎈ DE JUNIOR мᎠ ⎈* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
 ┃◈┃• *Name* - ${ownerName}
@@ -45,7 +45,7 @@ async (conn, mek, m, { from }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363200367779016@newsletter',
-                    newsletterName: 'SILVA DEVELOPERS🥰💖🥰',
+                    newsletterName: 'JUNIOR DEVELOPERS🥰💖🥰',
                     serverMessageId: 143
                 }            
             }
