@@ -27,7 +27,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 👥 *Followers*: ${data.followers} | Following: ${data.following}
 📅 *Created At*: ${new Date(data.created_at).toDateString()}
 🔭 *Public Gists*: ${data.public_gists}
-> © 𝘚𝘪𝘭𝘷𝘢 𝘚𝘱𝘢𝘳𝘬 𝘔𝘋`;
+> © DE JUNIOR 𝘔𝘋`;
           const sentMsg = await conn.sendMessage(from,{image:{url: data.avatar_url },caption: userInfo },{quoted:mek })
     } catch (e) {
         console.log(e);
@@ -35,4 +35,4 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     }
 });
 
-// 𝘚𝘪𝘭𝘷𝘢 𝘚𝘱𝘢𝘳𝘬 𝘔𝘋
+// DE JUNIOR MD 
