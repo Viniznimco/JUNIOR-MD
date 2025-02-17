@@ -1,7 +1,7 @@
 {
-  "name": "silva-spark-md",
+  "name": "De Junior Md",
   "version": "1.0.0",
-  "description": "A WhatsApp Bot Created By silva tech inc",
+  "description": "A WhatsApp Bot Created By junior tech inc",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name silva-spark-md",
