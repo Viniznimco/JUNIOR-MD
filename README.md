@@ -1,8 +1,8 @@
 <p align="center">
-  <h1 align="center">Silva Spark MD</h1>
+  <h1 align="center">De Junior MD</h1>
 </p>
 
-> **`Updated` Silva Spark MD with Latest Features**
+> **`Updated` De Junior MD with Latest Features**
 
 ---
 ### 🌟 Connect With Me
@@ -14,28 +14,28 @@
 </p>
 
 ---
-# Support Silva Tech Inc ❤️
+# Support Junior Tech Inc ❤️
 
-[![Sponsor SilvaTechB](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
+[![Sponsor JuniorTechB](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/Viniznimco/JUNIOR-MD/tree/main)
 
 ---
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=Silva+Spark+MD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="SilvaTechBReadme">
+  <a href="https://github.com/Viniznimco/JUNIOR-MD/tree/main">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=Silva+Spark+MD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="JuniorTechBReadme">
   </a>
 </p>
 
 --- 
 <p align="center">
-<a><img src='./sylivanus/SilvaSpark.png'/></a>
+<a><img src='./snapdragon/Dejunior.png'/></a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
 
 ***
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB"><img title="Developer" src="https://img.shields.io/badge/Author-Silva%20TechB-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Viniznimco/JUNIOR-MD/tree/main"><img title="Developer" src="https://img.shields.io/badge/Author-Silva%20TechB-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
