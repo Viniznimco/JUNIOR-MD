@@ -58,6 +58,6 @@ cmd({
     });
   } catch (_0x1ad7bb) {
     console.log(_0x1ad7bb);
-    _0x1bb557("❌𝒮𝒾𝓁𝓋𝒶 𝒮𝓅𝒶𝓇𝓀 𝑀𝒟 Error generating password🤕: " + _0x1ad7bb.message);
+    _0x1bb557("❌De junior 𝑀𝒟 Error generating password🤕: " + _0x1ad7bb.message);
   }
 });
