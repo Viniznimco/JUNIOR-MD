@@ -17,7 +17,7 @@ cmd({
     return reply("Please provide a title or link (Spotify/YouTube)!");
   }
 
-  reply("💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎 Fetching audio... 🎧");
+  reply("💎 DE JUNIOR MD 💎 Fetching audio... 🎧");
 
   let spotifySent = false;
   let youtubeSent = false;
@@ -43,7 +43,7 @@ cmd({
           contextInfo: {
             externalAdReply: {
               title: spotifyTrack.title,
-              body: "💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎 🥰💖: SPOTIFY",
+              body: "💎 DE JUNIOR MD 💎 🥰💖: SPOTIFY",
               mediaType: 1,
               sourceUrl: spotifyTrack.url,
               renderLargerThumbnail: true
