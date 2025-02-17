@@ -64,7 +64,7 @@ cmd({
       'isForwarded': true,
       'forwardedNewsletterMessageInfo': {
         'newsletterJid': '120363200367779016@newsletter',
-        'newsletterName': "SILVA SPARK 🥰",
+        'newsletterName': "DE JUNIOR 🤍",
         'serverMessageId': 0x8f
       }
     };
