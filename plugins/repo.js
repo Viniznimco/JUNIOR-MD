@@ -19,18 +19,18 @@ async (conn, mek, m, { from, quoted, reply }) => {
 
         // Construct the message
         const message = `
-*Hello there, Silva Spark User! 👋*
+*Hello there, De Junior User! 👋*
 
-💻 *Silva Spark MD Repository Info*:
+💻 *De Junior MD Repository Info*:
 ⭐ *Stars*: ${stargazers_count}
 🍴 *Forks*: ${forks_count}
 👥 *Users*: ${userCount}
-🔗 *Repository*: https://github.com/SilvaTechB/silva-spark-md
-> ✨ Silva Spark WhatsApp Bot – Simple. Smart. Feature-packed. 🚀
+🔗 *Repository*: https://github.com/Viniznimco/JUNIOR-MD/tree/main
+> ✨ De Junior WhatsApp Bot – Simple. Smart. Feature-packed. 🚀
 Effortlessly elevate your WhatsApp experience with our cutting-edge bot technology! 🎊
 *💡 Tip: Don’t forget to fork the repo and leave a star to show your support! 🌟*
 
-🙌 Thank you for choosing Silva Spark MD – your ultimate bot companion! 🎉
+🙌 Thank you for choosing De Junior MD – your ultimate bot companion! 🎉
         `;
 
         // Send the repository info as a text message
@@ -48,7 +48,7 @@ Effortlessly elevate your WhatsApp experience with our cutting-edge bot technolo
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: 'SILVA SPARK MD 💖🦄',
+                        newsletterName: 'DE JUNIOR MD🤍❤️',
                         serverMessageId: 143
                     }
                 }
