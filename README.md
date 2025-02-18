@@ -2,7 +2,8 @@
 <h1 align="center"> DÉ JÚÑÍÓÚR-𝐌𝐃 </h1>
 
  
-<h1 align="center"> Surviving is winning CLINTON everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
+<h1 align="center"> There's still more People to meet.More opportunities and more chances to try
+ Live,learn,apply and chase life like CLINTON 🤍🎉
 </h1>
 
 
