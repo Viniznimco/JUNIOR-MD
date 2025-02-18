@@ -13,7 +13,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Fetch repository data from GitHub API
-        const repoResponse = await axios.get('https://api.github.com/repos/SilvaTechB/silva-spark-md');
+        const repoResponse = await axios.get('https://github.com/Viniznimco/JUNIOR-MD');
         const { stargazers_count, forks_count } = repoResponse.data;
         const userCount = forks_count * 5; // Estimate user count based on forks
 
@@ -25,7 +25,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
 ⭐ *Stars*: ${stargazers_count}
 🍴 *Forks*: ${forks_count}
 👥 *Users*: ${userCount}
-🔗 *Repository*: https://github.com/Viniznimco/JUNIOR-MD/tree/main
+🔗 *Repository*: https://github.com/Viniznimco/JUNIOR-MD
 > ✨ De Junior WhatsApp Bot – Simple. Smart. Feature-packed. 🚀
 Effortlessly elevate your WhatsApp experience with our cutting-edge bot technology! 🎊
 *💡 Tip: Don’t forget to fork the repo and leave a star to show your support! 🌟*
@@ -40,7 +40,7 @@ Effortlessly elevate your WhatsApp experience with our cutting-edge bot technolo
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/PEZ5QL2.jpeg` },
+                image: { url: `https://files.catbox.moe/v5t4ju.jpg` },
                 caption: message,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -58,7 +58,7 @@ Effortlessly elevate your WhatsApp experience with our cutting-edge bot technolo
 
         // Send an audio response (PTT voice note)
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/hpwsi2.mp3' },
+            audio: { url: 'https://files.catbox.moe/v5t4ju.jpg' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
