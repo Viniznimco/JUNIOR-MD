@@ -1,165 +1,92 @@
-<p align="center">
-  <h1 align="center">De Junior MD</h1>
-</p>
-
-> **`Updated` De Junior MD with Latest Features**
-
----
-### 🌟 Connect With Me
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb3JJ9gKwqSJQJfQvl1K"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"></a>
-  <a href="https://instagram.com/_its.silva"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="11%"></a>
-  <a href="https://www.facebook.com/profile.php?id=100055490090211"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"></a>
-  <a href="https://x.com/junior_african"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"></a>
-</p>
-
----
-# Support Junior Tech Inc ❤️
-
-[![Sponsor JuniorTechB](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/Viniznimco/JUNIOR-MD/tree/main)
-
----
-
-<p align="center">
-  <a href="https://github.com/Viniznimco/JUNIOR-MD">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=Silva+Spark+MD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="JuniorTechBReadme">
-  </a>
-</p>
-
---- 
-<p align="center">
-<a><img src='./snapdragon/Dejunior.png'/></a>
-</p>
 <a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+<h1 align="center"> DÉ JÚÑÍÓÚR-𝐌𝐃 </h1>
 
-***
+ 
+<h1 align="center"> Surviving is winning CLINTON everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
+</h1>
 
-<p align="center">
-  <a href="https://github.com/Viniznimco/JUNIOR-MD"><img title="Developer" src="https://img.shields.io/badge/Author-Junior%20TechB-purple.svg?style=for-the-badge&logo=github" /></a>
-</p>
 
-<div align="center">
+
+  <a href="https://ibb.co/N6NMDtn"><img src="https://ibb.co/N6NMDtn" alt="01" border="0" /></a>                     
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+ 
+
+<details>
+<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb3JJ9gKwqSJQJfQvl1K)
-</div>
+- 𝐀𝐥𝐥 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐞𝐫𝐫𝐨𝐫𝐬 𝐟𝐢𝐱𝐞𝐝
+- 𝐀𝐧𝐭𝐢𝐜𝐚𝐥𝐥 𝐚𝐝𝐝𝐞𝐝
+-𝐀𝐧𝐭𝐢𝐝𝐞𝐥𝐞𝐭𝐞 𝐚𝐝𝐝𝐞𝐝
+-𝐀𝐧𝐝 𝐦𝐚𝐧𝐲 𝐦𝐨𝐫𝐞 𝐣𝐮𝐬𝐭 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐧𝐨𝐰
 
- <p align="center"><img src="https://profile-counter.glitch.me/{DeJuniorMD}/count.svg" alt="JuniorTechB :: Visitor's Count" /></p>
+</details>
 
-<p align="center">
-<a href="https://github.com/JuniorTechB/silva-spark-md"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SilvaSparkMD&label=VIEWS&style=flat-square&color=purple" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/Viniznimco/JUNIOR-MD"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
-</p>
+**👇FORK REPO**
 
----
+  
 
-### 1. Fork This Repository
+<a href="https://github.com/Viniznimco/JUNIOR-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK DÉ JÚÑÍÓÚR" width="150"></a>
 
-Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/Viniznimco/JUNIOR-MD"><img title="De-junior-md" src="https://img.shields.io/badge/FORK-silva%20spark%20md-h?color=purple&style=for-the-badge&logo=github"></a>
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+ <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
+  <a href="https://keith-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
-### 2. Get Session ID
 
-You will need a session ID to run Silva Spark MD. Click the button below to obtain your session ID:
 
-<a href='https://silva-session-selector.vercel.app' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
-</a>
-<br>
+###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
 
----
 
-<h2 align="center">Deployment Section</h2>
-
----
-
-<h4 align="center">1. Heroku</h4>
-<p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/silva-spark-md' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-</p>
-
-<h4 align="center">2. Koyeb</h4>
-<p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=SilvaTechB/silva-spark-md&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-</p>
-
-<h4 align="center">3. Railway</h4>
-<p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Railway%20Deploy-red?style=for-the-badge&logo=railway&logoColor=white'/></a>
-</p>
-
-<h4 align="center">4. Render</h4>
-<p align="center">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Render%20Deploy-black?style=for-the-badge&logo=render&logoColor=white'/></a>
-</p>
-
-<h4 align="center">5. Netlify</h4>
-<p align="center">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify%20Deploy-blue?style=for-the-badge&logo=netlify&logoColor=white'/></a>
-</p>
-
-<h4 align="center">6. Replit</h4>
-<p align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit%20Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/></a>
-</p>
-
----
-
-## 🔗 Silva Spark MD Info
-
-  <p align="center">
-<a href="https://github.com/Viniznimco/JUNIOR-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
-<a href="https://github.com/Viniznimco/JUNIOR-MD/stargazers/"><img title="Stars" src="https://img.shields.https://github.com/Viniznimco/JUNIOR-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
-<a href="https://github.com/Viniznimco/JUNIOR-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SilvaTechB/silva-spark-md?style=flat-square&color=green"></a>
-<a href="https://github.com/Viniznimco/JUNIOR-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-
----
-
-<h2 align="left">⚠️ Reminder</h2>
-<p align="center">
-
-- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
-- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
-- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
-
----
-
-<h2 align="left">ℹ️ Notice</h2>
-<p align="center">
-  Not For Sale - If any plugin's code is obfuscated, you do not have permission to edit it in any form. Please remember to give credit if you are using or re-uploading my plugins/files. Wishing you a wonderful day ahead!</p>
-
----
-
-<h2 align="center">🔰Team Section🔰</h2>
-
----
-
-### Thanks To Team ⤵️
-
-> Junior Spark MD Owner 
-- [Junior TechB](https://github.com/Viniznimco/JUNIOR-MD)
-- Creator and Owner Of Silva Spark MD
-
----
-
- <br>
-<h2 align="center"> ⚠️ Warning ⚠️
- </h2>
-
----
-
-<h3 align="center"> Don't Copy Without Permission </h3>
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Viniznimco/JUNIOR-MD&template=https://github.com/Viniznimco/JUNIOR-MD.git)***
 
 <br>
 
 <a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+ 
 
----
+**𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://github.com/Viniznimco/JUNIOR-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+  
+<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+</details
+
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+
+
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+
+
+
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+
+## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
+
+**𝗚𝗿𝗼𝘂𝗽**
+- <a href="https://chat.whatsapp.com/KPXrjIleoFbGwdiJcLCK2a" target="_blank">
+    <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+
+**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029Vb3JJ9gKwqSJQJfQvl1K">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+  
+
+   
+   <a><img src='https://whatsapp.com/channel/0029Vb3JJ9gKwqSJQJfQvl1K'/></a>
+
+### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
+[![Stargazers repo roster for @SNAPDRAGON/JUNIOR-MD](http://reporoster.com/stars/dark/Snapdragon/JUNIOR-MD)](https://github.com/Viniznimco/JUNIOR-MD/stargazers)
+     
+[![Forkers repo roster for @SNAPDRAGON/JUNIOR-MD](http://reporoster.com/forks/dark/SNAPDRAGON/JUNIOR-MD)](https://github.com/Viniznimco/JUNIOR-MD/network/members)
+
+Enjoy the diverse features of DE JUNIOR-𝐌𝐃  to enhance your Whatsapp more enjoyable
+
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
