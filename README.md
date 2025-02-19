@@ -1,28 +1,28 @@
 <p align="center">
-  <h1 align="center">Silva Spark MD</h1>
+  <h1 align="center">Dé Junior MD</h1>
 </p>
 
-> **`Updated` Silva Spark MD with Latest Features**
+> **`Updated` Dé Junior MD with Latest Features**
 
 ---
 ### 🌟 Connect With Me
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"></a>
+  <a href="https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"></a>
   <a href="https://instagram.com/_its.silva"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="11%"></a>
   <a href="https://www.facebook.com/profile.php?id=100055490090211"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"></a>
   <a href="https://x.com/silva_african"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"></a>
 </p>
 
 ---
-# Support Silva Tech Inc ❤️
+# Support De Junior Inc ❤️
 
 [![Sponsor SilvaTechB](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
 
 ---
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=Silva+Spark+MD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="SilvaTechBReadme">
+  <a href="https://github.com/Viniznimco/JUNIOR-MD">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=Silva+Spark+MD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="JuniortechBReadme">
   </a>
 </p>
 
@@ -30,28 +30,28 @@
 <p align="center">
 <a><img src='./sylivanus/SilvaSpark.png'/></a>
 </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
 
 ***
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB"><img title="Developer" src="https://img.shields.io/badge/Author-Silva%20TechB-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Viniznimco/JUNIOR-MD"><img title="Developer" src="https://img.shields.io/badge/Author-Silva%20TechB-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{SilvaSparkMD}/count.svg" alt="SilvaTechB :: Visitor's Count" /></p>
 
 <p align="center">
-<a href="https://github.com/SilvaTechB/silva-spark-md"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SilvaSparkMD&label=VIEWS&style=flat-square&color=purple" />
+<a href="https://github.com/Viniznimco/JUNIOR-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DéJuniorMD&label=VIEWS&style=flat-square&color=purple" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SilvaTechB/silva-spark-md"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Viniznimco/JUNIOR-MD"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 ---
@@ -79,7 +79,7 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 <h4 align="center">1. Heroku</h4>
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/SilvaTechB/silva-spark-md' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Viniznimco/JUNIOR-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
 <h4 align="center">2. Koyeb</h4>
@@ -112,11 +112,11 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 ## 🔗 Silva Spark MD Info
 
   <p align="center">
-<a href="https://github.com/SilvaTechB/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/"><img title="Size" src="https://img.shields.io/github/repo-size/SilvaTechB/silva-spark-md?style=flat-square&color=green"></a>
-<a href="https://github.com/SilvaTechB/silva-spark-md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Viniznimco/JUNIOR-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
+<a href="https://github.com/Viniznimco/JUNIOR-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
+<a href="https://github.com/Viniznimco/JUNIOR-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SilvaTechB/silva-spark-md?color=blue&style=flat-square"></a>
+<a href="https://github.com/Viniznimco/JUNIOR-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/SilvaTechB/silva-spark-md?style=flat-square&color=green"></a>
+<a href="https://github.com/Viniznimco/JUNIOR-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -145,8 +145,8 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 ### Thanks To Team ⤵️
 
 > Silva Spark MD Owner 
-- [Silva TechB](https://github.com/SilvaTechB)
-- Creator and Owner Of Silva Spark MD
+- [Silva TechB](https://github.com/Viniznimco/JUNIOR-MD)
+- Creator and Owner Of Dé Junior MD
 
 ---
 
@@ -160,6 +160,6 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 <br>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
 
 ---
