@@ -35,7 +35,7 @@
 ***
 
 <p align="center">
-  <a href="https://github.com/Viniznimco/JUNIOR-MD"><img title="Developer" src="https://img.shields.io/badge/Author-Silva%20TechB-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Viniznimco/JUNIOR-MD"><img title="Developer" src="https://img.shields.io/badge/Author-Junior%20TechB-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
