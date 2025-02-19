@@ -16,13 +16,13 @@
 ---
 # Support De Junior Inc ❤️
 
-[![Sponsor Dé Junior](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/Viniznimco/JUNIOR-MD)
+[![Sponsor Dé Junior](https://img.shields.io/badge/Sponsor-JuniorTech-important)](https://github.com/Viniznimco/JUNIOR-MD)
 
 ---
 
 <p align="center">
   <a href="https://github.com/Viniznimco/JUNIOR-MD">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=Silva+Spark+MD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="JuniortechBReadme">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=De+junior+MD;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="JuniortechBReadme">
   </a>
 </p>
 
