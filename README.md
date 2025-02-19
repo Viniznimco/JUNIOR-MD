@@ -60,7 +60,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/SilvaTechB/silva-spark-md/fork"><img title="silva-spark-md" src="https://img.shields.io/badge/FORK-silva%20spark%20md-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Viniznimco/JUNIOR-MD/fork"><img title="de-junior-md" src="https://img.shields.io/badge/FORK-silva%20spark%20md-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. Get Session ID
 
