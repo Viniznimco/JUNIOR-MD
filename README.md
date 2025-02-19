@@ -16,7 +16,7 @@
 ---
 # Support De Junior Inc ❤️
 
-[![Sponsor SilvaTechB](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/sponsors/SilvaTechB)
+[![Sponsor Dé Junior](https://img.shields.io/badge/Sponsor-SilvaTechB-important)](https://github.com/Viniznimco/JUNIOR-MD)
 
 ---
 
@@ -60,11 +60,11 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/Viniznimco/JUNIOR-MD/fork"><img title="de-junior-md" src="https://img.shields.io/badge/FORK-silva%20spark%20md-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Viniznimco/JUNIOR-MD/fork"><img title="de-junior-md" src="https://img.shields.io/badge/FORK-junior%20spark%20md-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. Get Session ID
 
-You will need a session ID to run Silva Spark MD. Click the button below to obtain your session ID:
+You will need a session ID to run De Junior MD. Click the button below to obtain your session ID:
 
 <a href='https://silva-session-selector.vercel.app' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
