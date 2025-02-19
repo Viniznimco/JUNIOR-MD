@@ -28,7 +28,7 @@
 
 --- 
 <p align="center">
-<a><img src='./sylivanus/SilvaSpark.png'/></a>
+<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
 </p>
 <a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
 
@@ -43,7 +43,7 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{SilvaSparkMD}/count.svg" alt="SilvaTechB :: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{SilvaSparkMD}/count.svg" alt="Dé Junior:: Visitor's Count" /></p>
 
 <p align="center">
 <a href="https://github.com/Viniznimco/JUNIOR-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
@@ -144,7 +144,7 @@ You will need a session ID to run Silva Spark MD. Click the button below to obta
 
 ### Thanks To Team ⤵️
 
-> Silva Spark MD Owner 
+> Dé Júñíõr MD Owner 
 - [Silva TechB](https://github.com/Viniznimco/JUNIOR-MD)
 - Creator and Owner Of Dé Junior MD
 
