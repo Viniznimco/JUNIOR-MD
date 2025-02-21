@@ -109,7 +109,7 @@ You will need a session ID to run De Junior MD. Click the button below to obtain
 
 ---
 
-## 🔗 Silva Spark MD Info
+## 🔗 DÉ JÚÑÍÓÚR MD Info
 
   <p align="center">
 <a href="https://github.com/Viniznimco/JUNIOR-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
