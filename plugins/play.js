@@ -1,93 +1,103 @@
-const {cmd , commands} = require('../command')
-const fg = require('api-dylux')
-const yts = require('yt-search')
-
-cmd({
-    pattern: "play2",
-    alias: ["ytmp3","audio"],
-    desc: "download songs",
-    category: "download",
-    react: "🎵",
-    filename: __filename
-},
-async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-try{
-if(!q) return reply("*Please provide a link or a name 🔎...*")
-const search = await yts(q)
-const data = search.videos[0]
-const url = data.url
-
-let desc = `╭━━━〔 *⎈ DÉ JÚÑÍÓÚR мᎠ ⎈* 〕━━━┈⊷
-┃▸┃๏ *MUSIC DOWNLOADER*
-╭━❮ *Download Audio* ❯━┈⊷
-┃▸╭─────────────·๏
-┃▸┃๏ *Tital* - ${data.title}
-┃▸┃๏ *Views* - ${data.views}
-┃▸┃๏ *Description* - ${data.description}
-┃▸┃๏ *Duration:* ${data.timestamp}}
-┃▸┃๏ *Link* - ${data.url}
-┃▸┃๏ *Ago* - ${data.ago}
-┃▸└────────────┈⊷
-╰━━━━━━━━━━━━━━━⪼
-> *©⎈ Sɪʟᴠᴀ Ｓᴘᴀʀᴋ мᎠ ⎈ ♡*`
-await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
-
-//download audio
-
-let down = await fg.yta(url)  
-let downloadUrl = down.dl_url
-
-//send audio
-await conn.sendMessage(from,{audio:{url: downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
-await conn.sendMessage(from,{document:{url: downloadUrl},mimetype:"audio/mpeg",fileName:data.title + "mp3",caption:"©⎈ Dé JÚÑÍÔÚR мᎠ ⎈"},{quoted:mek})
-}catch(e){
-reply(`${e}`)
+function hi() {
+  console.log("Hello World!");
 }
-})
-
-//===========darama-dl===========
-
+hi();
+const {
+  cmd,
+  commands
+} = require('../command');
+const yts = require("yt-search");
+const axios = require("axios");
 cmd({
-    pattern: "darama",
-    alias: ["video2","ytmp4"],    
-    desc: "download video",
-    category: "download",
-    react: "🎥",
-    filename: __filename
-},
-async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
-try{
-if(!q) return reply("*Please provide a link or a name 🔎...*")
-const search = await yts(q)
-const data = search.videos[0]
-const url = data.url
-
-let des = `╭━━━〔 *⎈ De Junior мᎠ ⎈* 〕━━━┈⊷
-┃▸┃๏ *VIDEO DOWNLOADER*
-╭━❮ *Download Audio* ❯━┈⊷
-┃▸╭─────────────·๏
-┃▸┃๏ *Tital* - ${data.title}
-┃▸┃๏ *Views* - ${data.views}
-┃▸┃๏ *Description* - ${data.description}
-┃▸┃๏ *Duration:* ${data.timestamp}}
-┃▸┃๏ *Link* - ${data.url}
-┃▸┃๏ *Ago* - ${data.ago}
-┃▸└────────────┈⊷
-╰━━━━━━━━━━━━━━━⪼
-> *©⎈ DÉ JÚÑÍÓÚR мᎠ ⎈♡*`
-await conn.sendMessage(from,{image:{url: data.thumbnail},caption:des},{quoted:mek});
-
-//download video
-
-let down = await fg.ytv(url)  
-let downloadUrl = down.dl_url
-
-//send video
-await conn.sendMessage(from,{video:{url: downloadUrl},mimetype:"video/mp4"},{quoted:mek})
-await conn.sendMessage(from,{document:{url: downloadUrl},mimetype:"video/mp4",fileName:data.title + "mp4",caption:"©⎈ DÉ JÚÑÍÓÚR мᎠ ⎈"},{quoted:mek})
-    
-}catch(a){
-reply(`${a}`)
-}
-})
-  
+  'pattern': 'video3',
+  'alias': ["ytvid3", 'ytv3', 'ytvideo3'],
+  'react': '🔄',
+  'desc': "Download videos from YouTube by searching for keywords.",
+  'category': "video",
+  'use': ".vidx <keywords>",
+  'filename': __filename
+}, async (_0xd6d2a7, _0x52dd09, _0x274922, {
+  from: _0x58af10,
+  args: _0x30587b,
+  reply: _0x1967fe
+}) => {
+  try {
+    const _0x501cea = _0x30587b.join(" ");
+    if (!_0x501cea) {
+      return _0x1967fe("*Please provide a video tital or url*");
+    }
+    _0x1967fe("> © DÉ JÚÑÍÓÚR ᴍᴅ  Sᴇɴᴅɪɴɢ Yᴏᴜʀ ᴠɪᴅᴇᴏ Wᴀɪᴛ...🫅 ");
+    const _0x1ce220 = await yts(_0x501cea);
+    if (!_0x1ce220.videos || _0x1ce220.videos.length === 0x0) {
+      return _0x1967fe("❌ No results found for \"" + _0x501cea + "\".");
+    }
+    const _0x26f941 = _0x1ce220.videos[0x0];
+    const _0x5920cf = _0x26f941.url;
+    const _0x2d1d85 = "https://apis.davidcyriltech.my.id/youtube/mp3?url=" + _0x5920cf;
+    const _0x4e01c1 = await axios.get(_0x2d1d85);
+    if (!_0x4e01c1.data.success) {
+      return _0x1967fe("❌ Failed to fetch video for \"" + _0x501cea + "\".");
+    }
+    const {
+      download_url: _0x1b649b
+    } = _0x4e01c1.data.result;
+    await _0xd6d2a7.sendMessage(_0x58af10, {
+      'video': {
+        'url': _0x1b649b
+      },
+      'mimetype': "video/mp4"
+    }, {
+      'quoted': _0x52dd09
+    });
+  } catch (_0x2dd777) {
+    console.error(_0x2dd777);
+    _0x1967fe("❌ An error occurred while processing your request.");
+  }
+});
+cmd({
+  'pattern': 'play',
+  'alias': ["song3", 'ytplay3'],
+  'react': '🔄',
+  'desc': "Download audio from YouTube by searching for keywords.",
+  'category': "music",
+  'use': ".playx <keywords>",
+  'filename': __filename
+}, async (_0x5ccd79, _0xea2e4a, _0x258b5e, {
+  from: _0x440036,
+  args: _0x45f6cb,
+  reply: _0xd2fbaa
+}) => {
+  try {
+    const _0x316468 = _0x45f6cb.join(" ");
+    if (!_0x316468) {
+      return _0xd2fbaa("*Please provide a audio tital or url*");
+    }
+    _0xd2fbaa("> © DÉ JÚÑÍÓÚR ᴍᴅ  Sᴇɴᴅɪɴɢ Yᴏᴜʀ Sᴏɴɢ Wᴀɪᴛ...❄️");
+    const _0x2644f6 = await yts(_0x316468);
+    if (!_0x2644f6.videos || _0x2644f6.videos.length === 0x0) {
+      return _0xd2fbaa("❌ No results found for \"" + _0x316468 + "\".");
+    }
+    const _0x1381c4 = _0x2644f6.videos[0x0];
+    const _0x4be45 = _0x1381c4.url;
+    const _0x21c154 = "https://apis.davidcyriltech.my.id/download/ytmp3?url=" + _0x4be45;
+    const _0x2e3133 = await axios.get(_0x21c154);
+    if (!_0x2e3133.data.success) {
+      return _0xd2fbaa("❌ Failed to fetch audio for \"" + _0x316468 + "\".");
+    }
+    const {
+      download_url: _0x5e3552
+    } = _0x2e3133.data.result;
+    await _0x5ccd79.sendMessage(_0x440036, {
+      'audio': {
+        'url': _0x5e3552
+      },
+      'mimetype': "audio/mp4",
+      'ptt': false
+    }, {
+      'quoted': _0xea2e4a
+    });
+  } catch (_0x1c8cbd) {
+    console.error(_0x1c8cbd);
+    _0xd2fbaa("❌ An error occurred while processing your request.");
+  }
+});
