@@ -33,7 +33,7 @@ cmd({
     }
     const _0x26f941 = _0x1ce220.videos[0x0];
     const _0x5920cf = _0x26f941.url;
-    const _0x2d1d85 = "https://keith-api.vercel.app/download/dlmp3?url=${link" + _0x5920cf;
+    const _0x2d1d85 = "https://apis.davidcyriltech.my.id/download/ytmp4?url=" + _0x5920cf;
     const _0x4e01c1 = await axios.get(_0x2d1d85);
     if (!_0x4e01c1.data.success) {
       return _0x1967fe("❌ Failed to fetch video for \"" + _0x501cea + "\".");
