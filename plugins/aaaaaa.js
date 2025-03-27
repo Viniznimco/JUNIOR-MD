@@ -57,7 +57,7 @@ cmd(
                     audio: { url: downloadUrl },
                     mimetype: "audio/mpeg",
                     fileName: `${title}.mp3`,
-                    caption: `🎵 *Title:* ${title}\n\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ`
+                    caption: `🎵 *Title:* ${title}\n\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ɢᴏᴅʏ`
                 },
                 { quoted: mek }
             );
@@ -129,7 +129,7 @@ cmd(
                 from,
                 {
                     video: { url: lowestQualityVideo.link },
-                    caption: `🎥 *Title:* ${title}\n📦 *Quality:* ${lowestQualityVideo.quality || "N/A"}\n\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sᴜʙᴢᴇʀᴏ`
+                    caption: `🎥 *Title:* ${title}\n📦 *Quality:* ${lowestQualityVideo.quality || "N/A"}\n\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ɢᴏᴅʏ`
                 },
                 { quoted: mek }
             );
