@@ -13,13 +13,13 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━━《 *𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐗𝐌𝐃* 》━━━┈⊷
+        let dec = `╭━━━《 *𝐉𝐔𝐍𝐈𝐎𝐔𝐑 𝐌𝐃* 》━━━┈⊷
 ┃❍⁠⁠⁠⁠╭──────────────
 ┃❍⁠⁠⁠⁠│▸  *Usᴇʀ* : ${config.OWNER_NAME}
 ┃❍⁠⁠⁠⁠│▸  *ʙᴀɪʟᴇʏs* : 𝐌𝐮𝐥𝐭𝐢 𝐝𝐞𝐯𝐢𝐜𝐞
 ┃❍⁠⁠⁠⁠│▸  *𝖳ʏᴘᴇ* : 𝐍𝐨𝐝𝐞𝐣𝐬
 ┃❍⁠⁠⁠⁠│▸  *ᴘʟᴀᴛғᴏʀᴍ* : 𝐇𝐞𝐫𝐨𝐤𝐮
-┃❍⁠⁠⁠⁠│▸  *𝖣ᴇᴠᴇʟᴏᴘᴇʀ* : ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ
+┃❍⁠⁠⁠⁠│▸  *𝖣ᴇᴠᴇʟᴏᴘᴇʀ* : 𝑺𝑵𝑨𝑷𝑫𝑹𝑨𝑮𝑶𝑵 ᴛᴇᴄʜ
 ┃❍⁠⁠⁠⁠│▸  *𝖬ᴏᴅᴇ* : [${config.MODE}]
 ┃❍⁠⁠⁠⁠│▸  *𝖯ʀᴇғɪx* : [${config.PREFIX}]
 ┃❍⁠⁠⁠⁠│▸  *𝖵ᴇʀsɪᴏɴ* : 𝟏.𝟎.𝟎
@@ -61,7 +61,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒-𝐗𝐌𝐃👻⚡',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-𝐗𝐌𝐃👻⚡',
                         serverMessageId: 143
                     }
                 }
@@ -143,7 +143,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD💖🦄',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -221,7 +221,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -287,7 +287,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 144
                     }
                 }
@@ -359,7 +359,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -423,7 +423,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD',
                         serverMessageId: 143
                     }
                 }
@@ -482,7 +482,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -534,7 +534,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -600,7 +600,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -649,7 +649,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -718,7 +718,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
@@ -769,7 +769,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363351424590490@newsletter',
-                        newsletterName: 'CASEYRHODES-XMD 💖🦄',
+                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
                 }
