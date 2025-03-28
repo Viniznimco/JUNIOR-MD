@@ -47,7 +47,7 @@ Effortlessly elevate your WhatsApp experience with our cutting-edge bot technolo
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363200367779016@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: 'DE JUNIOR MD🤍❤️',
                         serverMessageId: 143
                     }
