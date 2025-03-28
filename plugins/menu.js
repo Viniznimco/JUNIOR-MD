@@ -60,7 +60,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-𝐗𝐌𝐃👻⚡',
                         serverMessageId: 143
                     }
@@ -142,7 +142,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD💖🦄',
                         serverMessageId: 143
                     }
@@ -220,7 +220,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
@@ -286,7 +286,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 144
                     }
@@ -358,7 +358,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
@@ -422,7 +422,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD',
                         serverMessageId: 143
                     }
@@ -481,7 +481,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
@@ -533,7 +533,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
@@ -599,7 +599,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
@@ -648,7 +648,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
@@ -717,7 +717,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
@@ -768,7 +768,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363351424590490@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
                         serverMessageId: 143
                     }
