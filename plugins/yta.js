@@ -53,7 +53,7 @@ try {
         document: { url: ytdl.download.url },
         mimetype: "audio/mpeg",
         fileName: `${yts.title.replace(/[^a-zA-Z0-9]/g, '_')}.mp3`, // Sanitize filename
-        caption: `> *© Powered By SILVA SPARK ♡*`
+        caption: `> *© Powered By JUNIOR SPARK ♡*`
     }, { quoted: mek });
     
 } catch (e) {
