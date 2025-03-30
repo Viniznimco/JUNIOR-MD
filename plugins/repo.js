@@ -48,7 +48,7 @@ Effortlessly elevate your WhatsApp experience with our cutting-edge bot technolo
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: 'DE JUNIOR MD🤍❤️',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
