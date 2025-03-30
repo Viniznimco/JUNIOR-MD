@@ -19,7 +19,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭〔 *【ＳＩＬＶＡ】💥ＳＰＡＲＫ💥【ＭＤ】* 〕⊷
+        let envSettings = `╭〔 *【DE JUNIOR】💥ＳＰＡＲＫ💥【ＭＤ】* 〕⊷
 ┃▸╭───────────
 ┃▸┃๏ *ENV SETTINGS 🗿*
 ┃▸└───────────···๏
@@ -55,8 +55,8 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363200367779016@newsletter',
-                        newsletterName: "THE JUNIOR MD 🥰",
+                        newsletterJid: '120363404846707306@newsletter',
+                        newsletterName: "DÉ JÚÑÍÓÚR TECH",
                         serverMessageId: 143
                     }
                 }
