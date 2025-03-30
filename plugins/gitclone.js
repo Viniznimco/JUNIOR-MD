@@ -48,8 +48,8 @@ cmd({
         'forwardingScore': 0x3e7,
         'isForwarded': true,
         'forwardedNewsletterMessageInfo': {
-          'newsletterJid': "120363200367779016@newsletter",
-          'newsletterName': "JUNIOR GITHUB CLONE💀",
+          'newsletterJid': "120363404846707306@newsletter",
+          'newsletterName': "DÉ JÚÑÍÓÚR TECH",
           'serverMessageId': 0x8f
         }
       }
