@@ -45,8 +45,8 @@ async (conn, mek, m, { from, isGroup, groupMetadata, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363200367779016@newsletter',
-                    newsletterName: 'JUNIOR TECH INC',
+                    newsletterJid: '120363404846707306@newsletter',
+                    newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                     serverMessageId: 143,
                 },
             },
@@ -179,8 +179,8 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363200367779016@newsletter',
-            newsletterName: 'DE JUNIOR',
+            newsletterJid: '120363404846707306@newsletter',
+            newsletterName: 'DÉ JÚÑÍÓÚR TECH',
             serverMessageId: 143
           }
         }
