@@ -61,7 +61,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-𝐗𝐌𝐃👻⚡',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
@@ -143,7 +143,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD💖🦄',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
@@ -221,7 +221,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
@@ -287,7 +287,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 144
                     }
                 }
@@ -359,7 +359,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
@@ -423,7 +423,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
@@ -482,7 +482,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
@@ -534,7 +534,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
@@ -600,7 +600,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑹-XMD 💖🦄',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
@@ -649,7 +649,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
@@ -718,7 +718,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
@@ -769,7 +769,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: '𝑱𝑼𝑵𝑰𝑶𝑼𝑹-XMD 💖🦄',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
