@@ -242,7 +242,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363404846707306@newsletter',
-                        newsletterName: 'DE JUNIOR',
+                        newsletterName: 'DÉ JÚÑÍÓÚR TECH',
                         serverMessageId: 143
                     }
                 }
