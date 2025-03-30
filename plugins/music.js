@@ -76,7 +76,7 @@ cmd({
           contextInfo: {
             externalAdReply: {
               title: youtubeVideo.title,
-              body: "💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎🥰: YOUTUBE",
+              body: "💎 JUNIOUR Sᴘᴀʀᴋ MD 💎🥰: YOUTUBE",
               mediaType: 1,
               sourceUrl: youtubeVideo.url,
               renderLargerThumbnail: true
@@ -99,8 +99,8 @@ cmd({
   } else if (spotifySent && youtubeSent) {
     reply("Both Spotify and YouTube audio sent successfully.");
   } else if (spotifySent) {
-    reply("💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎: Spotify audio sent successfully.");
+    reply("💎 JUNIOR Sᴘᴀʀᴋ MD 💎: Spotify audio sent successfully.");
   } else if (youtubeSent) {
-    reply("💎 Sɪʟᴠᴀ Sᴘᴀʀᴋ MD 💎: YouTube audio sent successfully.");
+    reply("💎 JUNIOR Sᴘᴀʀᴋ MD 💎: YouTube audio sent successfully.");
   }
 });
