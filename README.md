@@ -1,6 +1,13 @@
-<p align="center">
-  <h1 align="center">Dé Junior MD</h1>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FFC900&center=true&width=1000&height=200&lines=DE JUNIOR-MD" alt="Typing SVG" /></a>
+  </p>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
+
+
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=sʜᴇɪɪᴋʜ+ᴀʟɪ+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ+ᴅᴇᴠᴇʟᴏᴘᴇʀ" alt="">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 > **`Updated` Dé Junior MD with Latest Features**
 
