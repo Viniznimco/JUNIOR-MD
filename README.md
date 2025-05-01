@@ -35,8 +35,7 @@
 
 --- 
 <p align="center">
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
-</p>
+
 <a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
 
 ***
