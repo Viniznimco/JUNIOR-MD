@@ -166,6 +166,6 @@ You will need a session ID to run De Junior MD. Click the button below to obtain
 
 <br>
 
-<a><img src='https://files.catbox.moe/v5t4ju.jpg'/></a>
+<a><img src='https://i.imgur.com/HR1SUcU.jpeg'/></a>
 
 ---
