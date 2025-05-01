@@ -2,7 +2,7 @@
   </p>
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FFC900&center=true&width=1000&height=200&lines=DE JUNIOR-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FFC900&center=true&width=1000&height=200&lines=LORD-JUNIOR-MD" alt="Typing SVG" /></a>
   </p>
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
