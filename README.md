@@ -6,7 +6,7 @@
 
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=sʜᴇɪɪᴋʜ+ᴀʟɪ+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ+ᴅᴇᴠᴇʟᴏᴘᴇʀ" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=DÉ+JUNIOR+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ+ᴅᴇᴠᴇʟᴏᴘᴇʀ" alt="">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 > **`Updated` Dé Junior MD with Latest Features**
