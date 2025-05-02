@@ -17,8 +17,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *❖╭─────────────···▸*
 > *ʀᴜɴᴛɪᴍᴇ* : ${runtime(process.uptime())}
 > *ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-> *ɴᴀᴍᴇ ʙᴏᴛ* : *𝐒𝐇𝐄𝐈𝐊𝐇 𝐀𝐋𝐈 𝐌𝐃*
-> *ᴄʀᴇᴀᴛᴏʀ* : *𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*
+> *ɴᴀᴍᴇ ʙᴏᴛ* : *𝐃𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 𝐌𝐃*
+> *ᴄʀᴇᴀᴛᴏʀ* : *𓄂𝕚𝕥𝕩.𝐂𝐄𝐍𝐀 𝐃𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 🔥༽༼ ♡*
 > *ᴠᴇʀsɪᴏɴ* : *ᴠ.4.0* ʙᴇᴛᴀ
 *❖╰────────────···▸▸*
 *♡︎•━━━━━━☻︎━━━━━━•♡︎*
@@ -40,7 +40,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 *ׂ╰┈➤ 🔢Reply with the Number you want to select
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`;
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝐃𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 🔥༽༼ ♡*`;
 
         const vv = await conn.sendMessage(from, { image: { url: "https://i.ibb.co/YdSKMhv/6767.jpg"}, caption: desc }, { quoted: mek });
 
@@ -86,7 +86,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝐃𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 🔥༽༼ ♡*`);
                         break;
                     case '2':               
                         reply(`*꧁◈╾───☉ ᴀɪ ᴍᴇɴᴜ ☉───╼◈꧂*
@@ -101,8 +101,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• blackbox
 ┃◈┃• luma
 ┃◈┃• dj 
-┃◈┃• sheikh
-┃◈┃• ali
+┃◈┃• ᴢena
+┃◈┃• cena
 ┃◈┃• gpt4
 ┃◈┃• bing
 ┃◈┃• imagine 
@@ -111,7 +111,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝔻𝔼 𝕁𝕌ℕ𝕀𝕆ℝ 🔥༽༼ ♡*`);
                         break;
                     case '3':               
                         reply(`*꧁◈╾───☉ ᴀɴɪᴍᴇ ᴍᴇɴᴜ ☉───╼◈꧂*
@@ -146,7 +146,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝔻𝔼 𝕁𝕌ℕ𝕀𝕆ℝ 🔥༽༼ ♡*`);
                         break;
                     case '4':               
                         reply(`*꧁◈╾───☉ ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ ☉───╼◈꧂*
@@ -175,7 +175,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝔻𝔼 𝕁𝕌ℕ𝕀𝕆ℝ 🔥༽༼ ♡*`);
                         break;
                     case '5':               
                         reply(`*꧁◈╾───☉ ғᴜɴ ᴍᴇɴᴜ ☉───╼◈꧂*
@@ -207,7 +207,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝔻𝔼 𝕁𝕌ℕ𝕀𝕆ℝ 🔥༽༼ ♡*`);
                         break;
                     case '6':               
                         reply(`*꧁◈╾───☉ ᴍᴀɪɴ  ᴍᴇɴᴜ ☉───╼◈꧂*
@@ -226,7 +226,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝔻𝔼 𝕁𝕌ℕ𝕀𝕆ℝ 🔥༽༼ ♡*`);
                         break;
                     case '7':               
                         reply(`*꧁◈╾───☉ ɢʀᴏᴜᴘ  ᴍᴇɴᴜ ☉───╼◈꧂*
@@ -278,7 +278,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝔻𝔼 𝕁𝕌ℕ𝕀𝕆ℝ 🔥༽༼ ♡*`);
                        break;
                     case '8':               
                         reply(`*꧁◈╾───☉ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ☉───╼◈꧂*
@@ -315,7 +315,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝔻𝔼 𝕁𝕌ℕ𝕀𝕆ℝ 🔥༽༼ ♡*`);
                         break;
                     case '9':               
                         reply(`*꧁◈╾───☉ ᴏᴛʜᴇʀ ᴍᴇɴᴜ ☉───╼◈꧂*
@@ -352,7 +352,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝔻𝔼 𝕁𝕌ℕ𝕀𝕆ℝ 🔥༽༼ ♡*`);
                         break;
                     case '10':               
                         reply(`*꧁◈╾───☉ ʀᴇᴀᴄᴛɪᴏɴs ᴍᴇɴᴜ ☉───╼◈꧂*
@@ -387,31 +387,31 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝔻𝔼 𝕁𝕌ℕ𝕀𝕆ℝ 🔥༽༼ ♡*`);
                         break;
                     case '11':               
                         reply(`*꧁◈╾───☉ sᴄᴀᴍᴍᴇʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ☉───╼◈꧂*
                         
 ╭────────●●►
-┃★│ • BC tatta 1🖕🏻: https://api.whatsapp.com/send?phone=923181093514&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
-┃★│ • BC tatta 2🖕🏻: https://api.whatsapp.com/send?phone=923094230218&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
-┃★│ • BC tatta 3🖕🏻: https://api.whatsapp.com/send?phone=447715929714&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
-┃★│ • BC tatta 4🖕🏻: https://api.whatsapp.com/send?phone=923092342318&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
-┃★│ • BC tatta 5🖕🏻: https://api.whatsapp.com/send?phone=923304093758&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
-┃★│ • BC tatta 6🖕🏻: https://api.whatsapp.com/send?phone=923202231275&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL🖕🏻
-┃★│ • BC tatta 7🖕🏻: https://api.whatsapp.com/send?phone=923134885399&text=hi+bc+scammer🖕🏻
-┃★│ • BC gashti 1🖕🏻: https://api.whatsapp.com/send?phone=923299539369&text=hi+bc+scammer🖕🏻
+┃★│ • BC tatta 1🖕🏻: https://api.whatsapp.com/send?phone=254780015430&text=Hi+Junior+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ • BC tatta 2🖕🏻: https://api.whatsapp.com/send?phone=254704009677&text=Hi+Zena+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ • BC tatta 3🖕🏻: https://api.whatsapp.com/send?phone=254759925133&text=Hi+viniz+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ • BC tatta 4🖕🏻: https://api.whatsapp.com/send?phone=254745616749&text=Hi+Cena+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ • BC tatta 5🖕🏻: https://api.whatsapp.com/send?phone=254704009677&text=Hi+Snapee+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ • BC tatta 6🖕🏻: https://api.whatsapp.com/send?phone=254750737434&text=Hi+Jesu+Ki+Olad+UK+UMAIR+LOL🖕🏻
+┃★│ • BC tatta 7🖕🏻: https://api.whatsapp.com/send?phone=254780015430&text=hi+bc+scammer🖕🏻
+┃★│ • BC gashti 1🖕🏻: https://api.whatsapp.com/send?phone=254704009677&text=hi+bc+scammer🖕🏻
 ╰────────────────────●●►
 
 *꧁◈╾───☉ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴍᴇssᴀɢᴇ ☉───╼◈꧂*
 ╭────────●●►
 ┃★│ • Please report to all these scammers's numbers.
 ┃★│ • If you have more scammers's number so contact me. I will add in my bot.
-┃★│ • Owner: https://api.whatsapp.com/send?phone=254704009677&text=Hello+𓄂.𝑺𝑯𝑬𝑰𝑲𝑯+𝑨𝑳𝑰+🔥༽༼+♡+I+have+scammer's+number.+Please+add+his/her+number+in+your+bot🥰.
+┃★│ • Owner: https://api.whatsapp.com/send?phone=254704009677&text=Hello+𓄂.𝐉𝐔𝐍𝐈𝐎𝐑+𝐌𝐃+🔥༽༼+♡+I+have+scammer's+number.+Please+add+his/her+number+in+your+bot🥰.
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝐃𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 🔥༽༼ ♡*`);
                         break;
                     case '12':               
                         reply(`*꧁◈╾───☉ ʟᴏɢᴏ ᴍᴇɴᴜ ☉───╼◈꧂*
@@ -451,7 +451,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ╰────────────────────●●►
 
 
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`);
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝐃𝐄 𝐉𝐔𝐍𝐈𝐎𝐑🔥༽༼ ♡*`);
                         
                         
                         break;
