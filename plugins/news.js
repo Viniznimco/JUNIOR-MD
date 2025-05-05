@@ -24,7 +24,7 @@ async (conn, mek, m, { from, reply }) => {
 ⚠️ _${article.description}_
 🔗 _${article.url}_
 
-  ©⎈ DE JUNIOR мᎠ ⎈
+  © Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐ ♡
             `;
 
             console.log('Article URL:', article.urlToImage); // Log image URL for debugging
