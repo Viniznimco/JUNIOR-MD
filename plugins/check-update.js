@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/main/data/version.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/Viniznimco/JUNIOR-MD/main/data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -53,12 +53,12 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD';
+    const githubRepo = 'https://github.com/Viniznimco/JUNIOR-MD';
 
     // Check update status
-    let updateMessage = `✅ Your SHEIKH-ALI-MD bot is up-to-date!`;
+    let updateMessage = `✅ Your JUNIOR-MD bot is up-to-date!`;
     if (localVersion !== latestVersion) {
-      updateMessage = `🚀 Your SHEIKH-ALI-MD bot is outdated!
+      updateMessage = `🚀 Your JUNIOR-MD bot is outdated!
 🔹 *Current Version:* ${localVersion}
 🔹 *Latest Version:* ${latestVersion}
 
@@ -66,10 +66,10 @@ Use *.update* to update.`;
     }
 
     const statusMessage = `🌟 *Good ${new Date().getHours() < 12 ? 'Morning' : 'Night'}, ${pushname}!* 🌟\n\n` +
-      `📌 *Bot Name:* SHEIKH-ALI-MD\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
+      `📌 *Bot Name:* JUNIOR-MD\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
       `💾 *System Info:*\n⏳ *Uptime:* ${uptime}\n📟 *RAM Usage:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *Host Name:* ${hostName}\n📅 *Last Update:* ${lastUpdate}\n\n` +
       `📝 *Changelog:*\n${latestChangelog}\n\n` +
-      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶](https://github.com/Sheikh-ali-2412)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
+      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [VINIZNIMCO](https://github.com/Viniznimco)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
@@ -80,8 +80,8 @@ Use *.update* to update.`;
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363333032882285@newsletter',
-          newsletterName: '𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐',
+          newsletterJid: '120363404846707306@newsletter',
+          newsletterName: '𒁂𓄂❥.CENA JUNIOR 🔥༽༼࿐',
           serverMessageId: 143
         }
       }
