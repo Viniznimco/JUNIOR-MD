@@ -42,7 +42,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 > *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝐃𝐄 𝐉𝐔𝐍𝐈𝐎𝐑 🔥༽༼ ♡*`;
 
-        const vv = await conn.sendMessage(from, { image: { url: "https://i.ibb.co/YdSKMhv/6767.jpg"}, caption: desc }, { quoted: mek });
+        const vv = await conn.sendMessage(from, { image: { url: "https://files.catbox.moe/2dredv.jpg"}, caption: desc }, { quoted: mek });
 
         conn.ev.on('messages.upsert', async (msgUpdate) => {
             const msg = msgUpdate.messages[0];
