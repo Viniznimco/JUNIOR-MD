@@ -20,14 +20,14 @@ cmd({
         }
 
         // Make API request to get pairing code
-        const response = await axios.get(`https://sheikh-ali-md-pair-359afed8c9cd.herokuapp.com/pair?phone=${encodeURIComponent(phoneNumber)}`);
+        const response = await axios.get(`https://queen-breshy.onrender.com${encodeURIComponent(phoneNumber)}`);
         
         if (!response.data || !response.data.code) {
             return await reply("❌ Failed to retrieve pairing code. Please try again later.");
         }
 
         const pairingCode = response.data.code;
-        const doneMessage = "> *SHEIKH-ALI-MD PAIRING COMPLETED*";
+        const doneMessage = "> *JUNIOR-MD PAIRING COMPLETED*";
 
         // Send initial message with formatting
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
@@ -49,9 +49,9 @@ cmd({
     pattern: "pair2",
     alias: ["getpair2", "clonebot2"],
     react: "✅",
-    desc: "Get pairing code for SHEIKH-ALI-MD bot",
+    desc: "Get pairing code for JUNIOR-MD bot",
     category: "download",
-    use: ".pair +92314370xxxx",
+    use: ".pair +2547800xxxx",
     filename: __filename
 }, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
@@ -60,18 +60,18 @@ cmd({
         
         // Validate phone number format
         if (!phoneNumber || !phoneNumber.match(/^\+?\d{10,15}$/)) {
-            return await reply("❌ Please provide a valid phone number with country code\nExample: .pair +92314370xxxx");
+            return await reply("❌ Please provide a valid phone number with country code\nExample: .pair +2547800xxxx");
         }
 
         // Make API request to get pairing code
-        const response = await axios.get(`https://sheikh-ali-md-pair-359afed8c9cd.herokuapp.com/pair?phone=${encodeURIComponent(phoneNumber)}`);
+        const response = await axios.get(`https://queen-breshy.onrender.com${encodeURIComponent(phoneNumber)}`);
         
         if (!response.data || !response.data.code) {
             return await reply("❌ Failed to retrieve pairing code. Please try again later.");
         }
 
         const pairingCode = response.data.code;
-        const doneMessage = "> *SHEIKH-ALI-MD PAIRING COMPLETED*";
+        const doneMessage = "> *JUNIOR-MD PAIRING COMPLETED*";
 
         // Send initial message with formatting
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
