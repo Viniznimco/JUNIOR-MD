@@ -40,8 +40,8 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           externalAdReply: {
-            title: config.BOT_NAME || "SHEIKH-ALI-MD 🥀",
-            body: config.DESCRIPTION || "© Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐ ♡",
+            title: config.BOT_NAME || "JUNIOR-MD 🥀",
+            body: config.DESCRIPTION || "© Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝐂𝐄𝐍𝐀 𝐉𝐔𝐍𝐈𝐎𝐑🔥༽༼࿐ ♡",
             mediaType: 1,
             renderLargerThumbnail: true,
             thumbnail: thumbnailBuffer,
