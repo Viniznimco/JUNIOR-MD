@@ -246,7 +246,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• 📦 blackbox
 ┃◈┃• 🌈 luma
 ┃◈┃• 🎧 dj
-┃◈┃• 👑 sheikh
+┃◈┃• 👑 zena
 ┃◈┃• 🤵 ali
 ┃◈┃• 🧠 gpt4
 ┃◈┃• 🔍 bing
@@ -268,7 +268,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┃◈┃• 📦 repo
 ┃◈┃• 👑 owner
 ┃◈┃• 📜 menu
-┃◈┃• 📜 menu2
+┃◈┃• 📜 Junior
 ┃◈┃• 🔄 restart
 ┃◈╰─────────────────┈⊷
 ╰━━━━━━━━━━━━━━━━━━━┈⊷
@@ -348,7 +348,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363333032882285@newsletter',
+                        newsletterJid: '120363404846707306@newsletter',
                         newsletterName: config.BOT_NAME,
                         serverMessageId: 143
                     }
@@ -359,7 +359,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
+            audio: { url: 'https://github.com/Viniznimco/JUNIOR-MD-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
