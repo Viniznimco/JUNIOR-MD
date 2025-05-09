@@ -75,7 +75,7 @@ cmd({
     await reply(
       `🔍 *Image Analysis Results*\n\n` +
       `${scanResponse.data.result}\n\n` +
-      `> © Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐ ♡`
+      `> © Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝐂𝐄𝐍𝐀 𝐉𝐔𝐍𝐈𝐎𝐑🔥༽༼࿐ ♡`
     );
 
   } catch (error) {
