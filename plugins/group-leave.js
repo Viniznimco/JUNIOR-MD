@@ -3,7 +3,7 @@ const config = require('../config')
 const { cmd, commands } = require('../command')
 
 
-// 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐
+// 𒁂𓄂❥.𝕁𝕌ℕ𝕀𝕆ℝ ℂ𝔼ℕ𝔸 🔥༽༼࿐
 
 cmd({
     pattern: "leave",
