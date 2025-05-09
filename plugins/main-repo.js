@@ -11,7 +11,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD';
+    const githubRepoURL = 'https://github.com/Viniznimco/JUNIOR-MD';
 
     try {
         const [, username, repoName] = githubRepoURL.match(/github\.com\/([^/]+)\/([^/]+)/);
@@ -179,8 +179,8 @@ ${repoData.description || 'No description provided'}
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363333032882285@newsletter',
-                    newsletterName: config.OWNER_NAME || '𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐',
+                    newsletterJid: '120363404846707306@newsletter',
+                    newsletterName: config.OWNER_NAME || '𒁂𓄂❥.𝐂𝐄𝐍𝐀 𝐉𝐔𝐍𝐈𝐎𝐑 🔥༽༼࿐',
                     serverMessageId: 143
                 }
             }
@@ -188,7 +188,7 @@ ${repoData.description || 'No description provided'}
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
+            audio: { url: 'https://github.com/Viniznimco/JUNIOR-MD-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
             mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
