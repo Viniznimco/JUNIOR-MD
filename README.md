@@ -76,7 +76,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You will need a session ID to run De Junior MD. Click the button below to obtain your session ID:
 
-<a href='https://silva-session-selector.vercel.app' target="_blank">
+<a href='https://queen-breshy.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
@@ -94,7 +94,7 @@ You will need a session ID to run De Junior MD. Click the button below to obtain
 
 <h4 align="center">2. Koyeb</h4>
 <p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=SilvaTechB/silva-spark-md&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=Viniznimco/JUNIOR-MD&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 </p>
 
 <h4 align="center">3. Railway</h4>
