@@ -32,7 +32,7 @@ cmd({
         const videoUrl = media.find(item => item.type.includes('720p'))?.download_url || media[0].download_url;
 
         // Prepare the new message with the updated caption
-        const desc = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
+        const desc = `╭━━━〔 *𝑱𝑼𝑵𝑰𝑶𝑹-𝑴𝑫* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *PINS DOWNLOADER*
 ┃▸└───────────···๏
@@ -41,7 +41,7 @@ cmd({
 ┇๏ *Title* - ${title}
 ┇๏ *Media Type* - ${media[0].type}
 ╰━━❑━⪼
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐ ♡*`;
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑱𝑼𝑵𝑰𝑶𝑹 𝑴𝑫🔥༽༼࿐ ♡*`;
 
         // Send the media (video or image) to the user
         if (videoUrl) {
