@@ -1,4 +1,4 @@
-// code by ⿻ ⌜ 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐ ♡ ⌟⿻⃮͛🇵🇰𖤐
+// code by ⿻ ⌜ 𒁂𓄂❥.𝑫𝑬 𝑱𝑼𝑵𝑰𝑶𝑹🔥༽༼࿐ ♡ ⌟⿻⃮͛🇵🇰𖤐
 
 const axios = require("axios");
 const config = require('../config');
@@ -31,14 +31,14 @@ async (conn, mek, m, {
     // give credit and use
     const imageMessage = {
       image: { url: screenshotUrl },
-      caption: "*WEB SS DOWNLOADER*\n\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐ ♡*",
+      caption: "*WEB SS DOWNLOADER*\n\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑫𝑬 𝑱𝑼𝑵𝑰𝑶𝑹 🔥༽༼࿐ ♡*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363333032882285@newsletter',
-          newsletterName: "𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐",
+          newsletterName: "𒁂𓄂❥.𝑪𝑬𝑵𝑨 𝑱𝑼𝑵𝑰𝑶𝑹 🔥༽༼࿐",
           serverMessageId: 143,
         },
       },
@@ -51,4 +51,4 @@ async (conn, mek, m, {
   }
 });
 
-// ⿻ ⌜ 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐ ⌟⿻⃮͛🇵🇰𖤐
+// ⿻ ⌜ 𒁂𓄂❥.𝑪𝑬𝑵𝑨 𝑱𝑼𝑵𝑰𝑶𝑹🔥༽༼࿐ ⌟⿻⃮͛🇧🇷𖤐
