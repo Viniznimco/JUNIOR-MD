@@ -56,7 +56,7 @@ cmd({
     });
     await _0x353a1e.sendMessage(_0x535983, {
       'audio': {
-        'url': 'https://files.catbox.moe/mwr90o.mp3'
+        'url': 'https://files.catbox.moe/yzccrf.m4a'
       },
       'mimetype': "audio/mp4",
       'ptt': true
