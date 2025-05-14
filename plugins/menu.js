@@ -102,7 +102,7 @@ cmd({
     let _0x41e11c = "╭━━〔 *Download Menu* 〕━━┈⊷\n┃◈╭─────────────·๏\n┃◈┃• facebook\n┃◈┃• mediafire\n┃◈┃• tiktok\n┃◈┃• twitter\n┃◈┃• Insta\n┃◈┃• apk\n┃◈┃• img\n┃◈┃• spotify\n┃◈┃• play\n┃◈┃• play2\n┃◈┃• play3\n┃◈┃• tt2\n┃◈┃• audio\n┃◈┃• playx\n┃◈┃• video\n┃◈┃• video1\n┃◈┃• ytmp3\n┃◈┃• ytmp4\n┃◈┃• pdf\n┃◈┃• sss\n┃◈┃• song\n┃◈┃• darama\n┃◈┃• git\n┃◈┃• gdrive\n┃◈┃• smovie\n┃◈┃• baiscope \n┃◈┃• ginisilia \n┃◈┃• bible\n┃◈┃• xxx\n┃◈┃• mp3\n┃◈┃• mp4 \n┃◈┃• gemini\n┃◈└───────────┈⊷\n╰──────────────┈⊷\n> " + config.DESCRIPTION;
     await _0x247ab2.sendMessage(_0x3242ff, {
       'image': {
-        'url': "https://files.catbox.moe/ntcw8m.jpg"
+        'url': "https://files.catbox.moe/yzccrf.m4a"
       },
       'caption': _0x41e11c,
       'contextInfo': {
