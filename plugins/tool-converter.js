@@ -35,7 +35,7 @@ cmd({
         // Send result
         await client.sendMessage(from, {
             image: imageBuffer,
-            caption: "> © Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐ ♡",
+            caption: "> © Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑪𝑬𝑵𝑨 𝑱𝑼𝑵𝑰𝑶𝑹🔥༽༼࿐ ♡",
             mimetype: 'image/png'
         }, { quoted: message });
 
