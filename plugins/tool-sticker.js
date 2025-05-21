@@ -1,4 +1,4 @@
-// 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐
+// 𒁂𓄂❥.𝑱𝑼𝑵𝑰𝑶𝑹 𝑪𝑬𝑵𝑨 🔥༽༼࿐
 
 const path = require("path");
 const { fetchGif, fetchImage, gifToSticker } = require('../lib/sticker-utils');
