@@ -65,7 +65,7 @@ cmd({
       `*${mediaType} Uploaded Successfully*\n\n` +
       `*Size:* ${formatBytes(mediaBuffer.length)}\n` +
       `*URL:* ${mediaUrl}\n\n` +
-      `> © Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐ ♡`
+      `> © Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝐉𝐔𝐍𝐈𝐎𝐑 𝐂𝐄𝐍𝐀 🔥༽༼࿐ ♡`
     );
 
   } catch (error) {
