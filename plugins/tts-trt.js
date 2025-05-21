@@ -24,7 +24,7 @@ async (conn, mek, m, { from, q, reply }) => {
         const response = await axios.get(url);
         const translation = response.data.responseData.translatedText;
 
-        const translationMessage = `> *SHEIKH-ALI-MD-TRANSLATION*
+        const translationMessage = `> *𝑱𝑼𝑵𝑰𝑶𝑹-𝑪𝑬𝑵𝑨-𝑴𝑫-TRANSLATION*
 
 > 🔤 *Original*: ${textToTranslate}
 
