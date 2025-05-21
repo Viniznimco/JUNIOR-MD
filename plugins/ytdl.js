@@ -44,7 +44,7 @@ cmd({
             `🔽 *Reply with your choice:*\n` +
             `1.1 *Audio Type* 🎵\n` +
             `1.2 *Document Type* 📁\n\n` +
-            `${config.FOOTER || "𓆩𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐𓆪"}`;
+            `${config.FOOTER || "𓆩𒁂𓄂❥.𝑫𝑬 𝑱𝑼𝑵𝑰𝑶𝑹 𝑪𝑬𝑵𝑨🔥༽༼࿐𓆪"}`;
 
         const sentMsg = await conn.sendMessage(from, { image: { url: image }, caption: info }, { quoted: mek });
         const messageID = sentMsg.key.id;
