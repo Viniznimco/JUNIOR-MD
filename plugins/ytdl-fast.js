@@ -35,7 +35,7 @@ cmd({
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> © Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐ ♡`;
+> © Pᴏᴡᴇʀᴇᴅ Bʏ 𒁂𓄂❥.𝑱𝑼𝑵𝑰𝑶𝑹 𝑪𝑬𝑵𝑨🔥༽༼࿐ ♡`;
 
         // Send video directly with caption
         await conn.sendMessage(
