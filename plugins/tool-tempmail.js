@@ -55,8 +55,8 @@ _Email will expire after 24 hours_
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363333032882285@newsletter',
-                        newsletterName: '𒁂𓄂❥.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼࿐',
+                        newsletterJid: '120363404846707306@newsletter',
+                        newsletterName: '𒁂𓄂❥.𝑱𝑼𝑵𝑰𝑶𝑹 𝑪𝑬𝑵𝑨🔥༽༼࿐',
                         serverMessageId: 101
                     }
                 }
