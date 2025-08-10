@@ -1,7 +1,7 @@
 const { cmd } = require("../command");
 
 cmd({
-  pattern: "send",
+  pattern: "waah",
   alias: ["sendme", 'save'],
   react: '📤',
   desc: "Forwards quoted message back to user",
