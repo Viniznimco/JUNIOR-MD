@@ -16,24 +16,24 @@ cmd({
     if (!isOwner) return reply("This command is only for the bot owner.");
 
     try {
-        await reply("🔍 Checking for SHEIKH-ALI-MD updates...");
+        await reply("🔍 Checking for JUNIOR-MD updates...");
 
         // Fetch the latest commit hash from GitHub
-        const { data: commitData } = await axios.get("https://api.github.com/repos/SHEIKH-ALI-2402/SHEIKH-ALI-MD/commits/main");
+        const { data: commitData } = await axios.get("https://api.github.com/repos/Viniznimco/JUNIOR-MD/commits/main");
         const latestCommitHash = commitData.sha;
 
         // Get the stored commit hash from the database
         const currentHash = await getCommitHash();
 
         if (latestCommitHash === currentHash) {
-            return reply("✅ Your SHEIKH-ALI-MD bot is already up-to-date!");
+            return reply("✅ Your JUNIOR-MD bot is already up-to-date!");
         }
 
-        await reply("🚀 Updating SHEIKH-ALI-MD Bot...");
+        await reply("🚀 Updating JUNIOR Bot...");
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");
-        const { data: zipData } = await axios.get("https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/archive/main.zip", { responseType: "arraybuffer" });
+        const { data: zipData } = await axios.get("https://github.com/Viniznimco/JUNIOR-MD/archive/main.zip", { responseType: "arraybuffer" });
         fs.writeFileSync(zipPath, zipData);
 
         // Extract ZIP file
@@ -44,7 +44,7 @@ cmd({
 
         // Copy updated files, preserving config.js and app.json
         await reply("🔄 Replacing files...");
-        const sourcePath = path.join(extractPath, "SHEIKH-ALI-MD-main");
+        const sourcePath = path.join(extractPath, "JUNIOR-MD-main");
         const destinationPath = path.join(__dirname, '..');
         copyFolderSync(sourcePath, destinationPath);
 
