@@ -76,7 +76,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You will need a session ID to run De Junior MD. Click the button below to obtain your session ID:
 
-<a href='https://queen-breshy.onrender.com' target="_blank">
+<a href='https://khanmd-pair.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
